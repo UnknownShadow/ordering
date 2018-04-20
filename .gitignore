@@ -1,0 +1,8 @@
+.idea/
+.DS_Store
+target/
+logContentFile.log
+prod_upload.sh
+sync_exclude.list
+upload.sh
+admin.iml
